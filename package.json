@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack-example",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "main": "webpack.base.js",
   "scripts": {
